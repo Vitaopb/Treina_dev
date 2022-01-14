@@ -5,6 +5,6 @@
 
 # Estudos sobre Ruby e Ruby on Rails:
 ### :one: [Lógica de programação com Ruby](./logica_ruby)
-### :two: [Orientação a Objetos com Ruby]()
-### :three: [Introdução a Web]()
-### :four: [Ruby on Rails: zero ao CRUD]()
+### :two: [Orientação a Objetos com Ruby](./ruby_poo)
+### :three: [Introdução a Web](./intro_web)
+### :four: [Ruby on Rails: zero ao CRUD](./ruby_on_rails)
