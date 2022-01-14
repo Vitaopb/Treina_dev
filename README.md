@@ -15,7 +15,7 @@
 <div align="center">
   <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
   <img src="./images/locaweb.png" width="200" height="80"/>
-  <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
+  <img src="./images/queroserdev.png" width="200" height="80"/>
 </div>
 <hr>
 
