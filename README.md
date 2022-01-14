@@ -10,5 +10,7 @@
 ### :four: [Ruby on Rails: zero ao CRUD](./ruby_on_rails)
 <hr>  
 <div align="center">
-  <img src="./images/campuscode-removebg-preview.png"/>
+  <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
+  <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
+  <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
 </div>
