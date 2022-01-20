@@ -11,7 +11,21 @@
 ### :two: [Orientação a Objetos com Ruby](./ruby_poo)
 ### :three: [Introdução a Web](./intro_web)
 ### :four: [Ruby on Rails: zero ao CRUD](./ruby_on_rails)
-<hr>  
+<hr>
+
+# Apostilas:
+- [Introdução ao Terminal](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Intro_Terminal.pdf)
+- [Lógica de programação com Ruby](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Logica.pdf)
+- [Básico de Orientação a Objetos em Ruby](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_OO.pdf)
+- [Introdução a Web](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Intro_Web.pdf)
+- [Git Básico](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_GitBasico.pdf)
+- [Ruby on Rails: do zero ao CRUD](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Rails.pdf)
+<hr>
+
+# Playlist no Youtube:
+- [Lógica de Programação em Ruby](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT)
+- [Orientação a Objetos em Ruby](https://www.youtube.com/playlist?list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY)
+- [Resolvendo (seus) problemas com OO](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iUCQPK0X9hmc8D-h1o9aZA)
 <div align="center">
   <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
   <img src="./images/locaweb.png" width="200" height="80"/>
