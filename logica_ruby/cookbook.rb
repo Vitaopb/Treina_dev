@@ -1,11 +1,17 @@
+INSERIR_RECEITA = 1
+VER_RECEITAS = 2
+BUSCAR_RECEITA = 3
+SAIR = 4
+
 def welcome()
   puts "Bem vindo ao Cookbook do Ruby"
 end
 
 def menu_escolha()
-  puts "[1] Adicionar receita"
-  puts "[2] Ver todas as receitas"
-  puts "[3] Sair"
+  puts "[#{INSERIR_RECEITA}] Adicionar receita"
+  puts "[#{VER_RECEITAS}] Ver todas as receitas"
+  puts "[#{BUSCAR_RECEITA}] Buscar receita"
+  puts "[#{SAIR}] Sair"
   
   print "Escolha uma opção: "
 
@@ -36,18 +42,35 @@ def listar_receitas(receitas)
     end
 end
 
+def buscar_reiceita(receitas)
+  puts "Qual receita você procura?"
+  nome_receita = gets.chomp
+  receitas.each do |receita|
+    if receita[:nome] == nome_receita
+      puts "* #{receita[:nome]}: #{receita[:descrição]}"
+    else
+      puts "Receita não encontrada!"
+    end
+  end
+end
 
 receitas = []
 welcome()
 
 escolha = menu_escolha()
 
-while escolha != "3" do
+loop do
   case escolha
-  when "1"
+  when "#{INSERIR_RECEITA}"
     receitas.push(add_receita())
-  when "2"
+  when "#{VER_RECEITAS}"
     listar_receitas(receitas)
+  when "#{BUSCAR_RECEITA}"
+    buscar_reiceita(receitas)
+  when "#{SAIR}"
+    puts "Obrigado por usar o Cookbook do Ruby"
+    puts "Até mais!"
+    break
   else
     puts "Opção inválida"
   end
