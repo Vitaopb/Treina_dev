@@ -20,12 +20,14 @@
 - [Introdução a Web](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Intro_Web.pdf)
 - [Git Básico](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_GitBasico.pdf)
 - [Ruby on Rails: do zero ao CRUD](https://treinadev-conteudo.s3-sa-east-1.amazonaws.com/TreinaDev_Rails.pdf)
+### :warning: **Caso os Links não estejam pegando [Clique aqui](./apostila) para baixar as apostilas.**
 <hr>
 
 # Playlist no Youtube:
 - [Lógica de Programação em Ruby](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iXblkBah6Ffoaa7Idxn4cT)
 - [Orientação a Objetos em Ruby](https://www.youtube.com/playlist?list=PLajdzeQ7QG3jS3yEBFkf7GsXvoSj6wuPY)
 - [Resolvendo (seus) problemas com OO](https://www.youtube.com/playlist?list=PLajdzeQ7QG3iUCQPK0X9hmc8D-h1o9aZA)
+### :warning: **Caso os Links não estejam pegando [Clique aqui](./videos_aulas) para baixar as aulas.**
 <div align="center">
   <img src="./images/campuscode-removebg-preview.png" width="200" height="80"/>
   <img src="./images/locaweb.png" width="200" height="80"/>
